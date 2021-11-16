@@ -1,8 +1,8 @@
 
 
-# Advanced AutoReset Mod
+# AdvancedAutoReset Mod
 
-## About The Project
+## About The Mod
 
 This mods allows resetting Random and Set Seeds. 
 
