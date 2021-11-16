@@ -1,6 +1,6 @@
 
 
-#Advanced AutoReset Mod
+# Advanced AutoReset Mod
 
 ## About The Project
 
@@ -29,6 +29,5 @@ Shift + right-click on the title screen button to cycle through the difficulties
 1. Editing attempts: The mod will automatically increment the number of attempts when creating a world. To edit these attempts simply enter the desired number of attempts into the field in the bottom left.
 2. Adding a Seed Entry: Click on the "Add Seed" button to create a new entry. You can enter a seed, a name, a description, a version. All of these are completely optional. To set a custom icon click the "Set Icon" button. Your file explorer will open where you can put your 64x64 icon file into. This icon will be saved in your minecraft/advanced-auto-reset folder. If you don't add a custom icon the mod will choose one of 18 minecraft textures as an icon.
 3. Moving the button in the title screen: To move the diamond boots button in the title screen click on the button in the bottom right with the default name "Top Left"
-4. 
 ## Acknowledgements
 * DuncanRuns, Created the original AutoResetMod
