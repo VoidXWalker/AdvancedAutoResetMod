@@ -1,6 +1,6 @@
 
 
-# <img src="https://github.com/VoidXWalker/AdvancedAutoResetMod/icon.png?raw=true" alt="Logo" width="30"> Advanced AutoReset Mod
+Advanced AutoReset Mod
 
 ## About The Project
 
