@@ -1,6 +1,6 @@
 
 
-Advanced AutoReset Mod
+#Advanced AutoReset Mod
 
 ## About The Project
 
